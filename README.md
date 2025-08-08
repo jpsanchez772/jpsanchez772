@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre o Usuario]</h1>
+<h1 align="center">¡Hola! 👋 Soy Juan </h1>
 
 <p align="center">
   Desarrollador apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones eficientes.
@@ -30,21 +30,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" />
 </p>
-
----
-
-### 🌱 Actualmente aprendiendo
-
-- Frameworks modernos como React / Angular
-- Principios de arquitectura limpia
-- Pruebas unitarias y de integración
-
----
-
-### 📫 Contacto
-
-- 📧 Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 💼 LinkedIn: [TuNombre](https://www.linkedin.com/in/tu-usuario)
 
 ---
 
