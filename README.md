@@ -21,4 +21,4 @@
 ---
 
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=jpsanchez772&color=blue)
