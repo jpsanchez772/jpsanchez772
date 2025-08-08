@@ -19,19 +19,3 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
 ---
-
-### 📈 Estadísticas
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=blue" alt="Contador de vistas" />
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" />
-</p>
-
----
-
-⭐ Si te gusta lo que hago, ¡no dudes en seguirme o dejar una ⭐ en mis repos!
-
