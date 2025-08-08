@@ -19,3 +19,6 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
 ---
+
+
+![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue)
