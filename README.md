@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">¡Hola! 👋 Soy Juan </h1>
 
 <p align="center">
